@@ -1,9 +1,9 @@
 {
   "name": "project-local-library",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "directories": {
+    "doc": "docs",
     "test": "test"
   },
   "scripts": {
@@ -21,8 +21,13 @@
   "license": "ISC",
   "devDependencies": {
     "chai": "^4.2.0",
-    "colors": "1.4.0",  
+    "colors": "1.4.0",
     "live-server": "1.2.1",
     "mocha": "^8.1.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "jasontilford17"
+  },
+  "description": ""
 }
